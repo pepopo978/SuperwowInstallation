@@ -22,3 +22,6 @@
 <hr>
 
 ### 7.  Launch VanillaFixes.exe to start the game.  The first time it should pop up a dialog saying which dlls it is loading and SuperWoW should be one of them.
+<hr>
+
+### 8.  In game open up a macro and if you have 512 allowed characters Superwow is working
