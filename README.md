@@ -10,7 +10,7 @@
 ### 3.  Download the latest vanilla fixes (>= version 1.4) if you don't already have it from here https://github.com/hannesmann/vanillafixes/releases and place in your TWow folder next to WoW.exe.
 <hr>
 
-### 4.  Download the latest SuperWoW dll from here https://github.com/balakethelock/SuperWoW/releases and place in your TWow folder next to WoW.exe.  You only need the dll you don't need the launcher.
+### 4.  Download the latest SuperWoW dll from here https://github.com/balakethelock/SuperWoW/releases/tag/Release and place in your TWow folder next to WoW.exe.  You only need the dll you don't need the launcher.
 <hr>
 
 ### 5.  Download the latest SuperWoW api addon from here https://github.com/balakethelock/SuperAPI and place in Interface/Addons making sure to remove the "-master" suffix appended by github.
