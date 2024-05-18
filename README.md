@@ -29,3 +29,4 @@
 
 ### 9.  (Optional) If you were using vanillatweaks for sounds while the game is in the background, run `/run SetCVar("BackgroundSound", "1")` to reenable that.  Can also do `/run SetCVar("UncapSounds", "1");SetCVar("SoundMaxHardwareChannels", "64");SetCVar("SoundSoftwareChannels", "64");` to enable the game to play more simultaneous sounds.
  
+Can view other CVars and features provided here https://github.com/balakethelock/SuperWoW/wiki/Features
