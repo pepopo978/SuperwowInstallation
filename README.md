@@ -25,3 +25,6 @@
 <hr>
 
 ### 8.  In game open up a macro and if you have 512 allowed characters Superwow is working
+<hr>
+
+### 9.  (Optional) If you were using vanillatweaks for sounds while the game is in the background, run `/run SetCVar("BackgroundSound", "1")` to reenable that.
