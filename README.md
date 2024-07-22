@@ -13,7 +13,14 @@
 ### 4.  Download the latest SuperWoW dll from here https://github.com/balakethelock/SuperWoW/releases/tag/Release and place in your TWow folder next to WoW.exe.  You only need the dll you don't need the launcher.
 <hr>
 
-### 5.  Download the latest SuperWoW api addon from here https://github.com/balakethelock/SuperAPI and place in Interface/Addons making sure to remove the "-master" suffix appended by github.
+### 5.  Download the latest SuperWoW api addon from here https://github.com/balakethelock/SuperAPI and place in Interface/Addons making sure to remove the "-master" suffix appended by github.  
+In the minimap icon this adds you can configure the behavior for the following:
+- autoloot
+- clickthrough
+- background sound
+- sound cap
+- fov
+- selection style
 <hr>
 
 ### 6.  (Optional) If you want to see improved enemy castbars:
@@ -27,6 +34,6 @@
 ### 8.  In game open up a macro and if you have 512 allowed characters Superwow is working
 <hr>
 
-### 9.  (Optional) If you were using vanillatweaks for sounds while the game is in the background, run `/run SetCVar("BackgroundSound", "1")` to reenable that.  Can also do `/run SetCVar("UncapSounds", "1");SetCVar("SoundMaxHardwareChannels", "64");SetCVar("SoundSoftwareChannels", "64");` to enable the game to play more simultaneous sounds.
+### 9.  (Optional) Ignore this if already did this when installing SuperAPI.  If you were using vanillatweaks for sounds while the game is in the background, run `/run SetCVar("BackgroundSound", "1")` to reenable that.  Can also do `/run SetCVar("UncapSounds", "1");SetCVar("SoundMaxHardwareChannels", "64");SetCVar("SoundSoftwareChannels", "64");` to enable the game to play more simultaneous sounds.
  
 Can view other CVars and features provided here https://github.com/balakethelock/SuperWoW/wiki/Features
