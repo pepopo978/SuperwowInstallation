@@ -28,12 +28,18 @@ In the minimap icon this adds you can configure the behavior for the following:
 - download the latest SuperWoW castlib addon from here https://github.com/balakethelock/SuperAPI_Castlib and place in Interface/Addons making sure to remove the "-master" suffix appended by github.
 <hr>
 
-### 7.  Launch VanillaFixes.exe to start the game.  The first time it should pop up a dialog saying which dlls it is loading and SuperWoW should be one of them.
+### 7.  (Optional) If you want VanillaTweaks as well:
+- Download tweaks here https://github.com/brndd/vanilla-tweaks?tab=readme-ov-file#current-patches and place in your TWow folder next to WoW.exe
+- Copy + paste `WoW.exe` so you have a backup of it
+- Drag `WoW.exe` on top of `vanilla_tweaks.exe` or run `./vanilla-tweaks WoW.exe` from the command line in the directory containing `WoW.exe` and `vanilla-tweaks.exe`.  If you want to specify specific options like increasing nameplate range you have to use the command line.  See https://github.com/brndd/vanilla-tweaks?tab=readme-ov-file#usage for examples
+- Rename either `WoW_tweaked` to `WoW` or `WoW_tweaked.exe` to `WoW.exe` depending on whether you have "Show file extensions" turned on in Windows.  Be careful not to accidentally make the filename `WoW.exe.exe` if you don't have "Show file extensions" turned on in windows.
+
+### 8.  Launch VanillaFixes.exe to start the game.  The first time it should pop up a dialog saying which dlls it is loading and SuperWoW should be one of them.
 <hr>
 
-### 8.  In game open up a macro and if you have 512 allowed characters Superwow is working
+### 9.  In game open up a macro and if you have 512 allowed characters Superwow is working
 <hr>
 
-### 9.  (Optional) Ignore this if already did this when installing SuperAPI.  If you were using vanillatweaks for sounds while the game is in the background, run `/run SetCVar("BackgroundSound", "1")` to reenable that.  Can also do `/run SetCVar("UncapSounds", "1");SetCVar("SoundMaxHardwareChannels", "64");SetCVar("SoundSoftwareChannels", "64");` to enable the game to play more simultaneous sounds.
+### 10.  (Optional) Ignore this if already did this when installing SuperAPI.  If you were using vanillatweaks for sounds while the game is in the background, run `/run SetCVar("BackgroundSound", "1")` to reenable that.  Can also do `/run SetCVar("UncapSounds", "1");SetCVar("SoundMaxHardwareChannels", "64");SetCVar("SoundSoftwareChannels", "64");` to enable the game to play more simultaneous sounds.
  
 Can view other CVars and features provided here https://github.com/balakethelock/SuperWoW/wiki/Features
