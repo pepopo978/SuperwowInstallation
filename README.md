@@ -43,3 +43,10 @@ In the minimap icon this adds you can configure the behavior for the following:
 ### 10.  (Optional) Ignore this if already did this when installing SuperAPI.  If you were using vanillatweaks for sounds while the game is in the background, run `/run SetCVar("BackgroundSound", "1")` to reenable that.  Can also do `/run SetCVar("UncapSounds", "1");SetCVar("SoundMaxHardwareChannels", "64");SetCVar("SoundSoftwareChannels", "64");` to enable the game to play more simultaneous sounds.
  
 Can view other CVars and features provided here https://github.com/balakethelock/SuperWoW/wiki/Features
+
+### 11. If you are getting this error launching
+![image](https://github.com/user-attachments/assets/00807ba1-53a3-4485-be76-a83c866bc48b)
+
+On Windows: Go to Control Panel > System and Security > System > Advanced system settings. Under Performance, click Settings, then the Data Execution Prevention tab.
+
+Select Turn on DEP for all programs and services except those I select, and add WoW.exe to the list. (Remember to remove this later if it doesn’t help you.)
