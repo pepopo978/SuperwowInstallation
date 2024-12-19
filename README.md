@@ -23,9 +23,12 @@ In the minimap icon this adds you can configure the behavior for the following:
 - selection style
 <hr>
 
-### 6.  (Optional) If you want to see improved enemy castbars:
-- download the latest PFUI from here https://github.com/shagu/pfUI and place in Interface/Addons making sure to remove the "-master" suffix appended by github.
-- download the latest SuperWoW castlib addon from here https://github.com/balakethelock/SuperAPI_Castlib and place in Interface/Addons making sure to remove the "-master" suffix appended by github.
+### 6.  (Optional) If you want to see improved enemy castbars pick ONE of these options:
+<b>Don't use both of these together.</b>
+#### Option 1 PFUI
+Download the latest PFUI from here https://github.com/shagu/pfUI and place in Interface/Addons making sure to remove the "-master" suffix appended by github.
+#### Option 2 SuperAPI_Castlib
+Download the latest SuperWoW castlib addon from here https://github.com/balakethelock/SuperAPI_Castlib and place in Interface/Addons making sure to remove the "-master" suffix appended by github.
 <hr>
 
 ### 7.  (Optional) If you want VanillaTweaks as well:
