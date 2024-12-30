@@ -53,3 +53,9 @@ Can view other CVars and features provided here https://github.com/balakethelock
 On Windows: Go to Control Panel > System and Security > System > Advanced system settings. Under Performance, click Settings, then the Data Execution Prevention tab.
 
 Select Turn on DEP for all programs and services except those I select, and add WoW.exe to the list. (Remember to remove this later if it doesn’t help you.)
+
+This can also be caused by not having any Visual c++ redistributables installed, try installing using this link:
+
+32 bit x86: https://aka.ms/vs/17/release/vc_redist.x86.exe (probably just need this one)
+
+64 bit x64:https://aka.ms/vs/17/release/vc_redist.x64.exe
