@@ -11,6 +11,7 @@
 <hr>
 
 ### 4.  Download the latest SuperWoW dll from here https://github.com/balakethelock/SuperWoW/releases/tag/Release and place in your TWow folder next to WoW.exe.  You only need the dll you don't need the launcher.
+<b>Make sure you have visual studio 2017 redistributable installed!  A lot of games require this so good chance you alredy do.  32 bit download: https://aka.ms/vs/17/release/vc_redist.x86.exe <b/>
 <hr>
 
 ### 5.  Download the latest SuperWoW api addon from here https://github.com/balakethelock/SuperAPI and place in Interface/Addons making sure to remove the "-master" suffix appended by github.  
