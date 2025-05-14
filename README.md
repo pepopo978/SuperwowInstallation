@@ -1,4 +1,12 @@
 # Superwow Installation Guide
+<hr>
+
+### 0.  If you plan on using the TWOW launcher:
+#### A. Go to the mods tab and add Superwow
+#### B. Go to the addons tab and add Superapi
+#### C. Skip to step 7
+<hr>
+
 ![image](https://github.com/pepopo978/SuperwowInstallation/assets/149287158/833d8d7e-c0c9-456a-9886-dc913ec07bfa)
 ### 1.  Disable windows real time protection (it will turn back on automatically after a short time) as it will block downloading vanillafixes and superwow.  
 <hr>
@@ -24,7 +32,14 @@ In the minimap icon this adds you can configure the behavior for the following:
 - selection style
 <hr>
 
-### 6.  (Optional) If you want to see improved enemy castbars pick ONE of these options:
+### 6.  (Optional) If you want VanillaTweaks as well:
+- Download tweaks here https://github.com/brndd/vanilla-tweaks?tab=readme-ov-file#current-patches and place in your TWow folder next to WoW.exe
+- Copy + paste `WoW.exe` so you have a backup of it
+- Drag `WoW.exe` on top of `vanilla_tweaks.exe` or run `./vanilla-tweaks WoW.exe` from the command line in the directory containing `WoW.exe` and `vanilla-tweaks.exe`.  If you want to specify specific options like increasing nameplate range you have to use the command line.  See https://github.com/brndd/vanilla-tweaks?tab=readme-ov-file#usage for examples
+- Rename either `WoW_tweaked` to `WoW` or `WoW_tweaked.exe` to `WoW.exe` depending on whether you have "Show file extensions" turned on in Windows.  Be careful not to accidentally make the filename `WoW.exe.exe` if you don't have "Show file extensions" turned on in windows.
+<hr>
+
+### 7.  (Optional) If you want to see improved enemy castbars pick ONE of these options:
 <b>Don't use both of these together.</b>
 #### Option 1 PFUI
 Download the latest PFUI from here https://github.com/shagu/pfUI and place in Interface/Addons making sure to remove the "-master" suffix appended by github.
@@ -32,13 +47,7 @@ Download the latest PFUI from here https://github.com/shagu/pfUI and place in In
 Download the latest SuperWoW castlib addon from here https://github.com/balakethelock/SuperAPI_Castlib and place in Interface/Addons making sure to remove the "-master" suffix appended by github.
 <hr>
 
-### 7.  (Optional) If you want VanillaTweaks as well:
-- Download tweaks here https://github.com/brndd/vanilla-tweaks?tab=readme-ov-file#current-patches and place in your TWow folder next to WoW.exe
-- Copy + paste `WoW.exe` so you have a backup of it
-- Drag `WoW.exe` on top of `vanilla_tweaks.exe` or run `./vanilla-tweaks WoW.exe` from the command line in the directory containing `WoW.exe` and `vanilla-tweaks.exe`.  If you want to specify specific options like increasing nameplate range you have to use the command line.  See https://github.com/brndd/vanilla-tweaks?tab=readme-ov-file#usage for examples
-- Rename either `WoW_tweaked` to `WoW` or `WoW_tweaked.exe` to `WoW.exe` depending on whether you have "Show file extensions" turned on in Windows.  Be careful not to accidentally make the filename `WoW.exe.exe` if you don't have "Show file extensions" turned on in windows.
-
-### 8.  Launch VanillaFixes.exe to start the game.  The first time it should pop up a dialog saying which dlls it is loading and SuperWoW should be one of them.
+### 8.  If using the TWOW launcher use that to start the game.  Otherwise launch VanillaFixes.exe to start the game.  The first time it should pop up a dialog saying which dlls it is loading and SuperWoW should be one of them.
 <hr>
 
 ### 9.  In game open up a macro and if you have 512 allowed characters Superwow is working
