@@ -4,7 +4,7 @@
 ### 0.  If you plan on using the TWOW launcher:
 #### A. Go to the mods tab and add Superwow
 #### B. Go to the addons tab and add Superapi
-#### C. Skip to step 7
+#### C. Skip to step 7 https://github.com/pepopo978/SuperwowInstallation/blob/main/README.md#7--optional-if-you-want-to-see-improved-enemy-castbars-pick-one-of-these-options
 <hr>
 
 ![image](https://github.com/pepopo978/SuperwowInstallation/assets/149287158/833d8d7e-c0c9-456a-9886-dc913ec07bfa)
