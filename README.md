@@ -1,11 +1,6 @@
 # Superwow Installation Guide
 <hr>
 
-### 0.  If you plan on using the TWOW launcher:
-#### A. Go to the addons tab and add Superapi
-#### B. Skip to [step 6](https://github.com/pepopo978/SuperwowInstallation?tab=readme-ov-file#6--download-the-latest-superwow-dll-from-here-httpsgithubcombalakethelocksuperwowreleasestagrelease-and-place-in-your-twow-folder-next-to-wowexe--you-only-need-the-dll-you-dont-need-the-launcher) 
-<hr>
-
 ![image](https://github.com/pepopo978/SuperwowInstallation/assets/149287158/833d8d7e-c0c9-456a-9886-dc913ec07bfa)
 ### 1.  Disable windows real time protection (it will turn back on automatically after a short time) as it will block downloading vanillafixes and superwow.  
 <hr>
@@ -14,7 +9,13 @@
 ### 2.  While you have windows security open, add a folder exclusion for your base turtle wow folder (where WoW.exe is) so that it doesn't remove vanillafixes/superwow later on out of nowhere.
 <hr>
 
-### 3.  Download the latest vanilla fixes (>= version 1.4) if you don't already have it from here https://github.com/hannesmann/vanillafixes/releases and place in your TWow folder next to WoW.exe.  You may need to add `d3d9.enableDialogMode = True` to your dxvk.conf file if you are getting black screens when alt-tabbing or switching windows.
+### 3A. If you plan on using the TWOW launcher:
+#### 1. Go to the addons tab and add Superapi
+#### 2. Skip to [step 6](https://github.com/pepopo978/SuperwowInstallation?tab=readme-ov-file#6--download-the-latest-superwow-dll-from-here-httpsgithubcombalakethelocksuperwowreleasestagrelease-and-place-in-your-twow-folder-next-to-wowexe--you-only-need-the-dll-you-dont-need-the-launcher) 
+<br/>
+
+### 3B.  Otherwise: Download the latest vanilla fixes (>= version 1.4) if you don't already have it from here https://github.com/hannesmann/vanillafixes/releases and place in your TWow folder next to WoW.exe.  
+You may need to add `d3d9.enableDialogMode = True` to your dxvk.conf file if you are getting black screens when alt-tabbing or switching windows.
 <hr>
 
 ### 4.  (Optional) If you want VanillaTweaks as well:
