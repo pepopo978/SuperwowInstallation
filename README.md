@@ -2,8 +2,8 @@
 <hr>
 
 ### 0.  If you plan on using the TWOW launcher:
-#### B. Go to the addons tab and add Superapi
-#### C. Skip to step 6 https://github.com/pepopo978/SuperwowInstallation/edit/main/README.md#6--download-the-latest-superwow-dll-from-here-httpsgithubcombalakethelocksuperwowreleasestagrelease-and-place-in-your-twow-folder-next-to-wowexe--you-only-need-the-dll-you-dont-need-the-launcher 
+#### A. Go to the addons tab and add Superapi
+#### B. Skip to [step 6](https://github.com/pepopo978/SuperwowInstallation?tab=readme-ov-file#6--download-the-latest-superwow-dll-from-here-httpsgithubcombalakethelocksuperwowreleasestagrelease-and-place-in-your-twow-folder-next-to-wowexe--you-only-need-the-dll-you-dont-need-the-launcher) 
 <hr>
 
 ![image](https://github.com/pepopo978/SuperwowInstallation/assets/149287158/833d8d7e-c0c9-456a-9886-dc913ec07bfa)
