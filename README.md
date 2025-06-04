@@ -63,8 +63,9 @@ Download the latest SuperWoW castlib addon from here https://github.com/balaketh
  
 Can view other CVars and features provided here https://github.com/balakethelock/SuperWoW/wiki/Features
 
-### 12. If you are getting this error launching
+### 12. If you are getting either of these errors launching
 ![image](https://github.com/user-attachments/assets/00807ba1-53a3-4485-be76-a83c866bc48b)
+![image](https://github.com/user-attachments/assets/a017feb5-87d9-429e-9252-156554ecd113)
 
 On Windows: Go to Control Panel > System and Security > System > Advanced system settings. Under Performance, click Settings, then the Data Execution Prevention tab.
 
